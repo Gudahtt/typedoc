@@ -1,5 +1,16 @@
 # TypeDoc
 
+## Fork Notice
+
+This is a fork of TypeDoc with added support for anonymous destructured parameters. See [this issue](https://github.com/TypeStrong/typedoc/issues/1703) for more details.
+
+This fork is not maintained. Use at your own risk.
+
+The original project documentation is left below unaltered.
+
+## Description
+
+
 Documentation generator for TypeScript projects.
 
 ![CI](https://github.com/TypeStrong/typedoc/workflows/CI/badge.svg)

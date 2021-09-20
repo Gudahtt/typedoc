@@ -1,5 +1,5 @@
 {
-  "name": "typedoc",
+  "name": "@gudahtt/typedoc",
   "description": "Create api documentation for TypeScript projects.",
   "version": "0.22.4",
   "homepage": "https://typedoc.org",
